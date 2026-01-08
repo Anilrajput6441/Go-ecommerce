@@ -25,7 +25,7 @@ http://localhost:8000/users/signup
 
 Response :"Successfully Signed Up!!"
 
-- **LOGIN FUNCTION API CALL (POST REQUEST)**
+- **LOGIN FUNCTION API CALL **
 
   http://localhost:8000/users/login
 
