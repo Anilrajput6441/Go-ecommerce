@@ -2,7 +2,6 @@
 
 **Repository:** [github.com/Anilrajput6441/Go-ecommerce](https://github.com/Anilrajput6441/Go-ecommerce)
 
-Based on the original "Ecommerce With Golang" code-along series.
 
 ```bash
 # You can start the project with below commands
