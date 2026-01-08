@@ -1,5 +1,8 @@
-##**Ecommerce With Golang Project By Akhil Sharma**
-**Code-Along video series on Youtube**
+## **Go Ecommerce (Golang)**
+
+**Repository:** [github.com/Anilrajput6441/Go-ecommerce](https://github.com/Anilrajput6441/Go-ecommerce)
+
+Based on the original "Ecommerce With Golang" code-along series.
 
 ```bash
 # You can start the project with below commands
@@ -13,10 +16,10 @@ http://localhost:8000/users/signup
 
 ```json
 {
-  "first_name": "Akhil",
-  "last_name": "Sharma",
-  "email": "akhil@gmail.com",
-  "password": "akhilsharma",
+  "first_name": "Anil",
+  "last_name": "Behera",
+  "email": "anil@gmail.com",
+  "password": "anilbehera",
   "phone": "+4534545435"
 }
 ```
@@ -29,8 +32,8 @@ Response :"Successfully Signed Up!!"
 
 ```json
 {
-  "email": "akhil@gmail.com",
-  "password": "akhilsharma"
+  "email": "anil@gmail.com",
+  "password": "anilbehera"
 }
 ```
 
@@ -39,10 +42,10 @@ response will be like this
 ```json
 {
   "_id": "***********************",
-  "first_name": "akhil",
-  "last_name": "sharma",
+  "first_name": "anil",
+  "last_name": "behera",
   "password": "$2a$14$UIYjkTfnFnhg4qhIfhtYnuK9qsBQifPKgu/WPZAYBaaN17j0eTQZa",
-  "email": "akhil@gmail.com",
+  "email": "anil@gmail.com",
   "phone": "+4534545435",
   "token": "eyJc0Bwcm90b25vbWFpbC5jb20iLCJGaXJzdF9OYW1lIjoiam9zZXBoIiwiTGFzdF9OYW1lIjoiaGVybWlzIiwiVWlkIjoiNjE2MTRmNTM5ZjI5YmU5NDJiZDlkZjhlIiwiZXhwIjoxNjMzODUzNjUxfQ.NbcpVtPLJJqRF44OLwoanynoejsjdJb5_v2qB41SmB8",
   "Refresh_Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJFbWFpbCI6IiIsIkZpcnLCJVaWQiOiIiLCJleHAiOjE2MzQzNzIwNTF9.ocpU8-0gCJsejmCeeEiL8DXhFcZsW7Z3OCN34HgIf2c",

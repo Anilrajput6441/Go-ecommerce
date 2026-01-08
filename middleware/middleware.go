@@ -3,7 +3,7 @@ package middleware
 import (
 	"net/http"
 
-	token "github.com/akhil/ecommerce-yt/tokens"
+	token "github.com/Anilrajput6441/Go-ecommerce/tokens"
 
 	"github.com/gin-gonic/gin"
 )

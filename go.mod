@@ -1,4 +1,4 @@
-module github.com/akhil/ecommerce-yt
+module github.com/Anilrajput6441/Go-ecommerce
 
 go 1.16
 
